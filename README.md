@@ -1,4 +1,4 @@
-# ecommerce-data-engineering-project
+# Ecommerce-data-engineering-project
 End-to-end data engineering project using PySpark and Databricks
 
 # E-commerce Data Engineering Project
